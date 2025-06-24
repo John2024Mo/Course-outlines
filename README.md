@@ -6,7 +6,8 @@ This repository contains the course outlines for courses completed at my home un
 
   
 
-My name is **LIU ZHONGHENG**.
+Name: **LIU ZHONGHENG**.\
+Matriculation Number: **N2504423H**
 
   
 
